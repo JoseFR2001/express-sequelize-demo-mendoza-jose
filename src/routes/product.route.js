@@ -1,3 +1,4 @@
+// product.routes
 import { Router } from "express";
 import {
   createProduct,

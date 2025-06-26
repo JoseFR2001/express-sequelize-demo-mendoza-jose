@@ -1,2 +1,4 @@
 node_modules/
 .env
+consultasProduct.http
+consultasUser.http
